@@ -17,7 +17,7 @@
 - [無名の主页 - Dev](https://home-imsyy.vercel.app)
 - [無名の主页 - 备用线路](https://home-5iw.pages.dev)
 
-### 功能
+### 功能d
 
 - [x] 载入动画
 - [x] 站点简介
